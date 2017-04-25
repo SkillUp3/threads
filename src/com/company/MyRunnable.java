@@ -3,7 +3,7 @@ package com.company;
 import static com.company.ThreadColor.ANSI_RED;
 
 /**
- * Created by idejesus on 25/04/2017.
+ * Created by idejesus on 2/04/2017.
  */
 public class MyRunnable implements Runnable{
     @Override
